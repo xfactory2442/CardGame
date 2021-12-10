@@ -3,7 +3,7 @@
 
 EnemyManager::EnemyManager()
 {
-	enemy_texture_.loadFromFile("gfx/many_eyes.png");
+	enemy_texture_.loadFromFile("gfx/slime_dude.png");
 	CreateNewEnemy();
 }
 
